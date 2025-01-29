@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">List App</string>
+    <string name="delete">Delete Item</string>
+    <string name="cancel">Cancel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="options_icon">Options Icon</string>
+    <string name="media_item_image">Media Item Image</string>
+    <string name="medien">Medien</string>
+    <string name="add_icon">Add Icon</string>
+    <string name="speichern_auf_einem_remote_server">Speichern auf einem Remote-Server</string>
+    <string name="hinzufuegen">Hinzufügen</string>
+    <string name="loeschen">Löschen</string>
+    <string name="title">Title</string>
+    <string name="neues_medium">NEUES MEDIUM</string>
+    <string name="image_button">Image Button</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="medium_loeschen">MEDIUM LÖSCHEN</string>
+    <string name="bild_upload_fehlgeschlagen">Bild-Upload fehlgeschlagen</string>
+    <string name="bitte_ein_bild_auswaehlen">Bitte ein Bild auswählen</string>
+    <string name="titel_darf_nicht_leer_sein">Titel darf nicht leer sein</string>
+    <string name="modifizieren">Modifizieren</string>
+    <string name="erstellen">Erstellen</string>
+    <string name="medium_editieren">Medium editieren</string>
+    <string name="neues_medium_">Neues Medium</string>
+    <string name="abbrechen">Abbrechen</string>
+    <string name="keine_medien_vorhanden">Keine Medien vorhanden</string>
+
+
+</resources>

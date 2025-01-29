@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_medien"
+        android:icon="@drawable/list_24"
+        android:title="Medien" />
+    <item
+        android:id="@+id/nav_karte"
+        android:icon="@drawable/map_24"
+        android:title="Karte" />
+</menu>
